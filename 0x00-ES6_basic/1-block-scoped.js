@@ -1,7 +1,6 @@
 #!/usr/bin/node
 
 export default function taskBlock(trueOrFalse) {
-
   var task;
   var task2;
 
